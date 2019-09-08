@@ -210,7 +210,10 @@
       },
       "PetShop.Core/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "PetShop.Core.Entity": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/PetShop.Core.dll": {}
         },
@@ -703,8 +706,8 @@
     },
     "PetShop.Core/1.0.0": {
       "type": "project",
-      "path": "../Core/PetShop.Core.csproj",
-      "msbuildProject": "../Core/PetShop.Core.csproj"
+      "path": "../PetShop.Core/PetShop.Core.csproj",
+      "msbuildProject": "../PetShop.Core/PetShop.Core.csproj"
     },
     "PetShop.Core.Entity/1.0.0": {
       "type": "project",
@@ -726,11 +729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\Infrastructure.Static.Data\\PetShop.Infrastructure.Static.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\Infrastructure.Static.Data\\PetShop.Infrastructure.Static.Data.csproj",
       "projectName": "PetShop.Infrastructure.Static.Data",
-      "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\Infrastructure.Static.Data\\PetShop.Infrastructure.Static.Data.csproj",
+      "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\Infrastructure.Static.Data\\PetShop.Infrastructure.Static.Data.csproj",
       "packagesPath": "C:\\Users\\Kristian Bertelsen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\Infrastructure.Static.Data\\obj\\",
+      "outputPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\Infrastructure.Static.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -749,11 +752,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\Core\\PetShop.Core.csproj": {
-              "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\Core\\PetShop.Core.csproj"
+            "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj"
             },
-            "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj": {
-              "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj"
+            "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\PetShop.Core\\PetShop.Core.csproj": {
+              "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\PetShop.Core\\PetShop.Core.csproj"
             }
           }
         }

@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "PetShop.Core.Entity/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/PetShop.Core.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PetShop.Core.Entity.dll": {}
+        }
       }
     }
   },
@@ -171,11 +181,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "PetShop.Core.Entity/1.0.0": {
+      "type": "project",
+      "path": "../PetShop.Core.Entity/PetShop.Core.Entity.csproj",
+      "msbuildProject": "../PetShop.Core.Entity/PetShop.Core.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "PetShop.Core.Entity >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -185,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\Core\\PetShop.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\Core\\PetShop.Core.csproj",
       "projectName": "PetShop.Core",
-      "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\Core\\PetShop.Core.csproj",
+      "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\Core\\PetShop.Core.csproj",
       "packagesPath": "C:\\Users\\Kristian Bertelsen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop-2.0\\PetShop\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -207,7 +223,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -233,5 +253,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project PetShop.Core.Entity is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project PetShop.Core.Entity supports: netcoreapp2.1 (.NETCoreApp,Version=v2.1)",
+      "libraryId": "PetShop.Core.Entity",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
