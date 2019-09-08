@@ -41,6 +41,20 @@ namespace PetShope.Infrastructure.Static.Data
 
             };
             FakeDB.Pets.Add(pet2);
+
+            var pet3 = new Pet()
+            {
+                Id = FakeDB.Id++,
+                Name = "Perry",
+                Species = "Platapus",
+                Birthdate = "25-01-208",
+                SoldDate = "02-10-2017",
+                Color = "Blue",
+                PreviousOwner = "Phineas and Ferb",
+                Price = "250000",
+
+            };
+            FakeDB.Pets.Add(pet3);
         }
         static int id = 1;
 
