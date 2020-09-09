@@ -23,7 +23,7 @@ namespace PetShope.Infrastructure.Static.Data
                 SoldDate = "12-05-2006",
                 Color = "Black",
                 PreviousOwner = "Karl Jensen",
-                Price = "7800",
+                Price = 7800,
 
             };
             FakeDB.Pets.Add(pet1);
@@ -37,7 +37,7 @@ namespace PetShope.Infrastructure.Static.Data
                 SoldDate = "21-12-2018",
                 Color = "Grey",
                 PreviousOwner = "Ruth Wilson",
-                Price = "2500",
+                Price = 2500,
 
             };
             FakeDB.Pets.Add(pet2);
@@ -51,12 +51,12 @@ namespace PetShope.Infrastructure.Static.Data
                 SoldDate = "02-10-2017",
                 Color = "Blue",
                 PreviousOwner = "Phineas and Ferb",
-                Price = "250000",
+                Price = 250000,
 
             };
             FakeDB.Pets.Add(pet3);
         }
-        static int id = 1;
+        int id = 4;
 
         public Pet Create(Pet pet)
         {
@@ -103,13 +103,12 @@ namespace PetShope.Infrastructure.Static.Data
             return null;
         }
 
-        public Pet Delete(int id)
+        public Boolean Delete(int id)
         {
             var petFound = ReadyById(id);
-            //if (petFound == null) return null;
 
-            FakeDB.Pets.Remove(petFound);
-            return petFound;
+            Boolean result = FakeDB.Pets.Remove(petFound);
+            return result;
 
         }
 

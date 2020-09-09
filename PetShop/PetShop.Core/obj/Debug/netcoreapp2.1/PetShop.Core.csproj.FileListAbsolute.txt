@@ -10,3 +10,15 @@ C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop.Cor
 C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.csproj.CopyComplete
 C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.dll
 C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.pdb
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.deps.json
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.dll
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.pdb
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.dll
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.pdb
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.csprojAssemblyReference.cache
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.AssemblyInfoInputs.cache
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.AssemblyInfo.cs
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.csproj.CopyComplete
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.dll
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.pdb

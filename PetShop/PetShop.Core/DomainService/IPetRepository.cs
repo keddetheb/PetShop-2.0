@@ -11,7 +11,7 @@ namespace PetShop.Core.DomainService
         Pet ReadyById(int id);
         IEnumerable<Pet> ReadAll();
         Pet Update(Pet petUpdate);
-        Pet Delete(int id);
+        Boolean Delete(int id);
 
     }
 }

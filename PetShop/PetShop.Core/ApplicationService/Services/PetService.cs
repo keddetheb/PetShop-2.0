@@ -15,7 +15,7 @@ namespace PetShop.Core.ApplicationService.Services
             _petRepo = petService;
         }
 
-        public Pet NewPet(string name, string species, string birthDate, string soldDate, string color, string previousOwner, string price)
+        public Pet NewPet(string name, string species, string birthDate, string soldDate, string color, string previousOwner, int price)
         {
             var pet = new Pet
             {
@@ -43,7 +43,9 @@ namespace PetShop.Core.ApplicationService.Services
 
         public List<Pet> GetAllePets()
         {
-            return _petRepo.ReadAll().ToList();
+
+            List<Pet> SortedList = _petRepo.ReadAll().ToList().OrderBy(x => x.Price).ToList();
+            return SortedList;
         }
 
         public Pet UpdadtePet(Pet updadtePet)
@@ -59,7 +61,7 @@ namespace PetShop.Core.ApplicationService.Services
             return pet;
         }
 
-        public Pet DeletPet(int id)
+        public Boolean DeletPet(int id)
         {
             return _petRepo.Delete(id);
         }

@@ -688,23 +688,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kristian Bertelsen\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\EG\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\EG\\source\\repos\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj",
       "projectName": "PetShop.Core.Entity",
-      "projectPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj",
-      "packagesPath": "C:\\Users\\Kristian Bertelsen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristian Bertelsen\\source\\repos\\PetShop\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\obj\\",
+      "projectPath": "C:\\Users\\EG\\source\\repos\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj",
+      "packagesPath": "C:\\Users\\EG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EG\\source\\repos\\PetShop-2.0\\PetShop\\PetShop.Core.Entity\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Kristian Bertelsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -736,10 +732,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
