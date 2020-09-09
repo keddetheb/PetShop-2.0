@@ -1,0 +1,41 @@
+C:\Users\Kristian Bertelsen\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.csprojAssemblyReference.cache
+C:\Users\Kristian Bertelsen\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Bertelsen\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfoInputs.cache
+C:\Users\Kristian Bertelsen\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfo.cs
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Core.dll
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.dll
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.dll
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.pdb
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.csprojAssemblyReference.cache
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfoInputs.cache
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfo.cs
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.deps.json
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.runtimeconfig.json
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.runtimeconfig.dev.json
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.dll
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.pdb
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.pdb
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Core.pdb
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.csproj.CopyComplete
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.dll
+C:\Users\Kristian Bertelsen\source\repos\PetShop\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.pdb
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.deps.json
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.runtimeconfig.json
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.runtimeconfig.dev.json
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.dll
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.pdb
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Core.dll
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.dll
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.dll
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.pdb
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.pdb
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\bin\Debug\netcoreapp2.1\PetShop.Core.pdb
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.csprojAssemblyReference.cache
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfoInputs.cache
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfo.cs
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.csproj.CopyComplete
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.dll
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.pdb
+C:\Users\EG\source\repos\PetShop-2.0\PetShop\PetShop\obj\Debug\netcoreapp2.1\PetShop.genruntimeconfig.cache
